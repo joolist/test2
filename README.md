@@ -8,3 +8,6 @@ It now includes steps for github.
 
 For second test regarding git fetch......
 
+This line is added for testing git pull command...
+
+
